@@ -15,6 +15,7 @@
 		1146CE80260E8B730079499F /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1146CE7F260E8B730079499F /* DetailView.swift */; };
 		1146CE8A260F63E30079499F /* H4K0R-News.app in Resources */ = {isa = PBXBuildFile; fileRef = 1146CE5B260E5D460079499F /* H4K0R-News.app */; };
 		1166C428260F83AB00E5EFD0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1146CE60260E5D460079499F /* ContentView.swift */; };
+		1166C42B260FE20200E5EFD0 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1166C42A260FE20200E5EFD0 /* WebView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		1146CE6F260E64930079499F /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		1146CE73260E6C1D0079499F /* PostData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostData.swift; sourceTree = "<group>"; };
 		1146CE7F260E8B730079499F /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		1166C42A260FE20200E5EFD0 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 			children = (
 				1146CE60260E5D460079499F /* ContentView.swift */,
 				1146CE7F260E8B730079499F /* DetailView.swift */,
+				1166C42A260FE20200E5EFD0 /* WebView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -168,6 +171,7 @@
 				1146CE74260E6C1D0079499F /* PostData.swift in Sources */,
 				1166C428260F83AB00E5EFD0 /* ContentView.swift in Sources */,
 				1146CE5F260E5D460079499F /* H4K0R_NewsApp.swift in Sources */,
+				1166C42B260FE20200E5EFD0 /* WebView.swift in Sources */,
 				1146CE80260E8B730079499F /* DetailView.swift in Sources */,
 				1146CE70260E64930079499F /* NetworkManager.swift in Sources */,
 			);
